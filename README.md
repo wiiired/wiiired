@@ -6,5 +6,5 @@ hii, im wired :3
 ------------------------------------------------
 cats lover
 
-[![discord](https://img.shields.io/badge/-discord-2B2D42?style=flat&logo=discord)](https://discord.com/users/642829289489956921)
-[![socials](https://img.shields.io/badge/-links-2B2D42?style=flat&logo=googlechrome)](https://solo.to/gatos)
+[![discord](https://img.shields.io/badge/-discord-2B2D42?style=flat&logo=discord)](https://discord.com/users/997649891650183258)
+[![socials](https://img.shields.io/badge/-links-2B2D42?style=flat&logo=googlechrome)](https://ogusers.me/w)
